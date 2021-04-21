@@ -21,4 +21,4 @@ def printStream():
 if __name__ == '__main__':
 	printStream()
 
-#[['Gaurav', 30, 'M'], ['Pallavi', 26, 'F'], ['Aaditya', 23, 'M']]
+#[['John', 30, 'M'], ['Hedwick', 26, 'F'], ['Luke', 23, 'M']]
